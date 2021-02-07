@@ -1,0 +1,11 @@
+/* font-faces */
+@import url('./fontfaces.css');
+
+/* components */
+@import url('./navbar.css');
+@import url('./article.css');
+@import url('./scroll-bar.css');
+
+body {
+  min-height: 1000px;
+}

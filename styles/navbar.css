@@ -1,0 +1,13 @@
+nav {
+  font-family: 'VT323', monospace;
+}
+
+nav a.navbar-brand {
+  font-family: 'Press Start 2P', cursive;
+}
+
+nav a.navbar-brand span {
+  font-family: 'VT323', monospace;
+  font-size: 1.5em;
+  padding: 3px;
+}

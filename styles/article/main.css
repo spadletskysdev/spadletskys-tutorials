@@ -1,0 +1,31 @@
+@import './prog_el.css';
+
+article main {
+  font-size: 1em;
+}
+
+article main section {
+  text-align: center;
+}
+
+article main span.dev {
+  font-family: "Press Start 2P", cursive !important;
+  font-size: 1.5em !important;
+  color: white;
+}
+
+article main span.text-warning {
+  font-family: "VT323", monospace !important;
+  font-size: 2.5em !important;
+}
+
+article main div.subtitle {
+  padding: 5px !important;
+  font-size: 0.5em;
+  text-align: center !important;
+  width: 100% !important;
+}
+
+article {
+  background-color: --danger;
+}
